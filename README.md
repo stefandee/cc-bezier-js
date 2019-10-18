@@ -1,5 +1,5 @@
 ## Welcome
-cc.BezierJS aims at integrating [Bezier.js](https://github.com/Pomax/bezierjs)with Cocos Creator 2.0.x
+cc.BezierJS aims at integrating [Bezier.js](https://github.com/Pomax/bezierjs) with Cocos Creator 2.0.x
 
 ## Changes
 Two components (BezierDrawAPI and BezierInteractionAPI) have been introduced to handle the rendering and interactivity of the Bezier curves.
