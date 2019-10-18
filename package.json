@@ -1,0 +1,19 @@
+{
+  "name": "cc.BezierJS",
+  "version": "1.0.0",
+  "description": "Integration of Bezier.js with Cocos Creator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stefandee/cc-bezier-js.git"
+  },
+  "author": "Stefan Dicu/Piron Games",
+  "license": "(MIT OR Apache-2.0)",
+  "devDependencies": {},
+  "dependencies": {
+    "bezier-js": "^2.4.4"
+  }
+}
